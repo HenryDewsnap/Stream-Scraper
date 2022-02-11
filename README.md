@@ -1,6 +1,6 @@
 # Stream-Scraper
 ## Twitch API Client ID necessary
-> This can be found at ```https://dev.twitch.tv/login```
+> These can be created at ```https://dev.twitch.tv/login```
 
 ## PipeLine
 |Stage|Description|
