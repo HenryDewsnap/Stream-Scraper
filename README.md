@@ -9,8 +9,8 @@
 |Two|Download twitch clips from URLS|
 |Three|Compile twitch clips into a single video (optional)|
 
-> Both stages one and three are currently being developed and will be released shortly.\
-> Currently you can download spesific clips based of URL links given you have a ClientID
+> stage three is currently being developed and will be released shortly.\
+> Currently you can download clips from spesific streamers, based of a time period and streamer name given you have access to a ClientID.
 
 ## Contributing
 > If you believe you have something to add to this project, whether they are bug fixes or quality of life changes please create a pull request
